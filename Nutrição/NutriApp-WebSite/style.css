@@ -1,0 +1,21 @@
+:root{
+  --bg:#f6f8fb; --card:#fff; --muted:#6b7280; --accent:#2b7a78;
+}
+*{box-sizing:border-box}
+body{
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background:var(--bg); margin:0; color:#111;
+}
+header{
+  background:var(--accent); color:white; padding:18px 12px; text-align:center;
+}
+.container{max-width:900px;margin:18px auto;padding:12px}
+.day-card{background:var(--card);border-radius:12px;padding:14px;margin-bottom:12px;box-shadow:0 6px 18px rgba(0,0,0,.06)}
+.meal{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px dashed #eee}
+.meal:last-child{border-bottom:none}
+#controls{display:flex;gap:8px; margin-bottom:12px}
+button{background:var(--accent);color:white;border:none;padding:10px 12px;border-radius:8px;cursor:pointer}
+#shopping{margin-top:18px;background:#fff;padding:12px;border-radius:12px}
+.table{display:grid;grid-template-columns:1fr 120px 120px;gap:8px;align-items:center;padding:8px 0}
+.table header{font-weight:700}
+.small{font-size:.9rem;color:var(--muted)}
