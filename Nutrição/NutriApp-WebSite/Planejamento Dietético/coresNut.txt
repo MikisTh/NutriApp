@@ -1,0 +1,844 @@
+Cor	Nutrientes Principais	Benefícios	Exemplos
+
+Vermelho:	Licopeno, antocianinas, vit. C - Coração, pele, antioxidante (Ex:	Tomate, morango, melancia, feijão vermelho)
+Roxo:	Antocianinas, resveratrol -	Cérebro, circulação, anti-idade (Ex: Uva roxa, mirtilo, berinjela)
+Rosa:	Licopeno leve, vitamina C, betalaínas	- Pele, circulação, hidratação	(Ex:Goiaba rosa, pitaya rosa, salmão)
+Laranja:	Beta-caroteno, vit. A e C	- Visão, pele, imunidade	(Ex: Cenoura, abóbora, manga)
+Amarelo:	Luteína, zeaxantina, vit. C	- Olhos, imunidade, coração	(Ex: Abacaxi, milho, pimentão amarelo)
+Verde:	Clorofila, folato, vit. K, magnésio	- Ossos, sangue, desintoxicação	(Ex: Couve, brócolis, espinafre, kiwi)
+Branco:	Potássio, cálcio, amido, prebióticos -	Ossos, energia, intestino	(Ex: Batata, alho, leite, coco)
+Marrom:	Fibras, ferro, selênio, vit. B	- Energia, intestino, nervos	(Ex: Arroz integral, aveia, nozes)
+Preto:	Antocianinas escuras, polifenóis -	Antioxidante, glicemia, cérebro	(Ex:Açaí, feijão preto, gergelim preto)
+
+✅ 2) MAPA MENTAL (VERSÃO TEXTUAL)
+ALIMENTOS POR COR
+│
+├── Vermelhos
+│   ├── Licopeno, Vit. C, Antocianinas
+│   ├── Benefícios: coração, pele, antioxidante
+│   └── Ex.: tomate, morango, melancia, feijão vermelho
+│
+├── Roxos
+│   ├── Antocianinas, Resveratrol
+│   ├── Benefícios: circulação, cérebro, anti-idade
+│   └── Ex.: uva roxa, berinjela, mirtilo
+│
+├── Rosas
+│   ├── Vit. C, Betalaínas, Licopeno leve
+│   ├── Benefícios: hidratação, pele, imunidade
+│   └── Ex.: pitaya rosa, goiaba rosa, salmão
+│
+├── Alaranjados
+│   ├── Beta-caroteno, Vit. A, Vit. C
+│   ├── Benefícios: visão, pele, imunidade
+│   └── Ex.: cenoura, abóbora, manga
+│
+├── Amarelos
+│   ├── Luteína, Zeaxantina, Vit. C
+│   ├── Benefícios: olhos, coração, imunidade
+│   └── Ex.: abacaxi, milho, banana
+│
+├── Verdes
+│   ├── Clorofila, Folato, Vit. K
+│   ├── Benefícios: ossos, sangue, detox
+│   └── Ex.: espinafre, brócolis
+│
+├── Brancos
+│   ├── Potássio, Cálcio, Amido
+│   ├── Benefícios: ossos, energia, intestino
+│   └── Ex.: batata, alho, leite
+│
+├── Marrons
+│   ├── Fibras, Ferro, Selênio
+│   ├── Benefícios: energia, metabolismo, intestino
+│   └── Ex.: arroz integral, castanhas
+│
+└── Pretos
+    ├── Antocianinas escuras, Polifenóis
+    ├── Benefícios: antioxidante, cérebro, glicemia
+    └── Ex.: açaí, feijão preto
+
+✅ 3) MATERIAL DE ESTUDO (RESUMO EXPLICATIVO)
+Resumo das Cores dos Alimentos e Nutrientes-Chave
+
+Os alimentos podem ser agrupados por cor, pois cada pigmento está associado a nutrientes específicos e benefícios funcionais importantes.
+
+Vermelhos
+
+Ricos em licopeno e antocianinas → protegem o coração, pele e sistema imunológico.
+
+Roxos
+
+Possuem resveratrol e antocianinas → excelente para circulação, cérebro e envelhecimento saudável.
+
+Rosas
+
+Combinam licopeno leve, vitamina C e betalaínas → hidratam, protegem a pele e ajudam na imunidade.
+
+Amarelos e Alaranjados
+
+Repletos de carotenoides (beta-caroteno, luteína, zeaxantina) → importantes para visão, pele e imunidade.
+
+Verdes
+
+Contêm clorofila, folato e vitamina K → essenciais para ossos, sangue e desintoxicação.
+
+Brancos
+
+Fontes de potássio, cálcio e prebióticos → ajudam intestino, ossos e fornecem energia.
+
+Marrons
+
+Ricos em fibras, selênio e ferro → regulam intestino, fornecem energia e ajudam metabolismo.
+
+Pretos
+
+Altos em polifenóis e antocianinas escuras → maximizam defesa antioxidante e estabilizam glicose.
+
+Cada grupo alimentar (frutas, legumes, carnes, grãos, laticínios, oleaginosas) aparece em uma ou mais categorias, contribuindo para uma dieta equilibrada e variada.
+
+✅ 4) QUADRO PARA IMPRESSÃO (MODELO LIMPO)
+================ ALIMENTOS POR COR ================
+
+🔴 VERMELHOS
+Nutrientes: Licopeno, Antocianinas, Vit. C
+Benefícios: Coração, antioxidante, pele
+Exemplos: Tomate, morango, melancia
+
+🟣 ROXOS
+Nutrientes: Antocianinas, Resveratrol
+Benefícios: Circulação, cérebro, anti-idade
+Exemplos: Uva roxa, berinjela
+
+🌸 ROSAS
+Nutrientes: Vit. C, Betalaínas
+Benefícios: Pele, hidratação, imunidade
+Exemplos: Goiaba rosa, pitaya rosa, salmão
+
+🟠 ALARANJADOS
+Nutrientes: Beta-caroteno, Vit. A e C
+Benefícios: Visão, imunidade
+Exemplos: Cenoura, abóbora, manga
+
+🟡 AMARELOS
+Nutrientes: Luteína, Zeaxantina, Vit. C
+Benefícios: Visão, imunidade, digestão
+Exemplos: Abacaxi, milho, banana
+
+🟢 VERDES
+Nutrientes: Clorofila, Folato, Vit. K
+Benefícios: Ossos, sangue, detox
+Exemplos: Couve, brócolis, espinafre
+
+🤍 BRANCOS
+Nutrientes: Potássio, Cálcio, Amido
+Benefícios: Energia, ossos, intestino
+Exemplos: Batata, alho, leite
+
+🟤 MARRONS
+Nutrientes: Fibras, Ferro, Selênio
+Benefícios: Energia, intestino
+Exemplos: Arroz integral, castanhas
+
+⚫ PRETOS
+Nutrientes: Antocianinas escuras, Polifenóis
+Benefícios: Antioxidante, glicemia
+Exemplos: Açaí, feijão preto
+
+🟢 1) CAROTENOIDES + VITAMINA C
+
+Cores envolvidas: laranja, amarelo, vermelho, verde
+Nutrientes:
+
+Beta-caroteno, luteína, zeaxantina
+
+Vitamina C
+
+Eles não competem!
+E mais: a vitamina C aumenta a proteção antioxidante dos carotenoides.
+
+✔ Combinações seguras e recomendadas:
+
+Cenoura + laranja
+Manga + abacaxi
+Abóbora + limão
+Pimentão amarelo + kiwi
+Mamão + acerola
+
+🟣 2) ANTOCIANINAS (roxo/azul) + CAROTENOIDES (laranja/amarelo)
+
+Completamente compatíveis — agregam benefícios antioxidantes.
+
+✔ Combinações:
+
+Mirtilo + manga
+Uva roxa + cenoura
+Jabuticaba + mamão
+
+❤️‍🔥 3) LICOPENO (vermelho) + GORDURA BOA
+
+Licopeno não compete com vitaminas ou minerais.
+Ele apenas precisa de gordura para melhor absorção.
+
+✔ Combinações perfeitas:
+
+Tomate + azeite
+Melancia + sementes (chia/linhaça)
+Goiaba + castanhas
+
+🥬 4) FOLATO (verde) + VITAMINA C (amarelo/laranja)
+
+Não competem e atuam juntos no metabolismo celular.
+
+✔ Combinações:
+
+Couve + laranja
+Espinafre + kiwi
+Brócolis + abacaxi
+
+🥛 5) CÁLCIO (branco/laticínios) + CARBOIDRATOS (grãos, raízes)
+
+Não competem — digestão independente.
+
+✔ Combinações:
+
+Leite + aveia
+Iogurte + frutas (qualquer cor)
+Queijo + batata doce
+Queijo + arroz integral
+
+🐟 6) ÔMEGA-3 (peixes) + VITAMINA C (frutas amarelas/verdes)
+
+Totalmente compatíveis.
+
+✔ Salmão + limão
+✔ Sardinha + abacaxi
+✔ Atum + laranja
+
+🥩 7) PROTEÍNAS ANIMAIS (carne/ovo/peixe) + VEGETAIS COLORIDOS
+
+Não há competição entre proteínas + compostos vegetais.
+
+✔ Carne com legumes
+✔ Frango com brócolis e cenoura
+✔ Ovos com espinafre, tomate e pimentão
+
+🌰 8) OLEAGINOSAS (nozes, castanhas) + QUALQUER GRUPO COLORIDO
+
+Minerais das oleaginosas não competem com vitaminas das frutas/vegetais.
+
+✔ Castanha + frutas vermelhas
+✔ Nozes + kiwi
+✔ Amêndoas + uva roxa
+
+🟤 9) FIBRAS + VITAMINAS HIDROSSOLÚVEIS
+
+As fibras não prejudicam a absorção da maioria das vitaminas.
+
+✔ Aveia + frutas
+✔ Granola + iogurte
+✔ Arroz integral + legumes coloridos
+
+⚫ 10) POLIFENÓIS (açaí, uvas, jabuticaba) + VITAMINA C
+
+Trabalham juntos sem competição.
+
+✔ Açaí + banana
+✔ Uva roxa + morango
+✔ Jabuticaba + kiwi
+
+🚫 AGORA OS QUE NÃO DEVEM SER MISTURADOS (para você evitar conflitos)
+❌ 1) Cálcio × Ferro
+
+(Ex.: leite + feijão, queijo + carne)
+→ O cálcio atrapalha a absorção do ferro não-heme.
+
+❌ 2) Café/Chá preto × Ferro vegetal
+
+Polifenóis bloqueiam ferro de feijão, vegetais, cereais integrais.
+
+❌ 3) Zinco × Ferro
+
+Competem entre si se consumidos juntos em suplementos — mas em alimentos não costuma ser um problema.
+
+❌ 4) Fitatos (grãos crus) × Minerais
+
+Fitatos em excesso reduzem absorção de ferro, zinco e cálcio, mas cozinhar neutraliza.
+
+✅ 1. CARDÁPIOS POR COMBINAÇÃO NUTRICIONAL (SINERGIA SEM COMPETIÇÃO)
+
+Esses cardápios foram montados evitando combinações que prejudicam absorção:
+❌ Ferro + cálcio (um inibe o outro)
+❌ Zinco + cálcio (competem)
+❌ Café/chá preto/chimarrão juntos de refeições ricas em ferro
+❌ Muitos fitatos junto de ferro (grãos crus)
+
+E usando combinações que melhoram a absorção:
+✔ Ferro + vitamina C
+✔ Carotenoides + gordura saudável
+✔ Licopeno + calor + gordura
+✔ Antioxidantes variados juntos
+✔ Cereais integrais + leguminosas (melhoram aminoácidos)
+
+🌿 CARDÁPIO 1 – COMBINAÇÃO IDEAL (Vegetais + proteínas + boas gorduras)
+
+Café da manhã
+
+Iogurte natural (cálcio)
+Morangos + framboesas (vitamina C)
+Aveia (fibras)
+Mel
+✔ Não há ferro heme aqui → não há competição com cálcio.
+
+Almoço
+
+Frango grelhado (proteína)
+Purê de abóbora (carotenoides + vitamina A)
+Arroz integral + feijão (aminoácidos complementares)
+Salada de espinafre + manga (vitamina C ajuda ferro vegetal)
+Azeite por cima (ajuda absorver vitamina A)
+
+Lanche
+
+Melancia ou goiaba rosa (licopeno + vitamina C)
+
+Jantar
+
+Peixe assado (ômega-3)
+Batata-doce
+Brócolis cozido ao vapor
+Azeite (melhora absorção de carotenoides do brócolis)
+
+🍇 CARDÁPIO 2 – DETOX ANTIOXIDANTE (Roxos + verdes + proteínas leves)
+
+Café da manhã
+
+Smoothie: uva roxa + blueberry + água de coco
+Torrada integral com pasta de amendoim (proteína vegetal)
+
+Almoço
+
+Filé de peixe
+Arroz integral
+“Mix roxo”: repolho roxo + beterraba + cebola roxa + limão
+✔ Limão aumenta absorção de ferro vegetal da beterraba.
+
+Lanche
+
+Amêndoas + uma maçã
+
+Jantar
+
+Omelete com espinafre e tomate
+✔ Vitamina C do tomate potencializa ferro do espinafre.
+
+🍊 CARDÁPIO 3 – CAROTENOIDES + GORDURAS SAUDÁVEIS (laranja, amarelo e verde)
+
+Café da manhã
+
+Vitaminas: manga + laranja + chia
+Ovos mexidos
+
+Almoço
+
+Salmão grelhado (gorduras boas)
+Abóbora assada
+Cenoura ralada com azeite
+✔ Gordura do salmão e azeite → absorção máxima de carotenoides.
+
+Lanche
+
+Iogurte com mel + mamão
+
+Jantar
+
+Frango + risoto de alho-poró
+Salada de alface, rúcula e milho
+
+🍅 CARDÁPIO 4 – LICOPENO + PROTEÍNAS LEVES (vermelhos + verdes)
+
+Café da manhã
+
+Tapioca com queijo
+Suco de melancia
+
+Almoço
+
+Peito de frango
+Massa integral com molho de tomate aquecido
+✔ Tomate aquecido + azeite = muito mais licopeno absorvido.
+Salada: rúcula + pepino + limão
+
+Lanche
+
+Goiaba rosa
+
+Jantar
+
+Sopa de legumes vermelhos: tomate, pimentão vermelho, cenoura
+
+🌈 2. CARDÁPIOS ORGANIZADOS POR COR (como você pediu)
+
+Aqui ficam cardápios temáticos por cor, com refeições completas.
+
+💜 CARDÁPIO ROXO
+
+Uva roxa
+Ameixa
+Repolho roxo salteado
+Berinjela grelhada
+Feijão preto
+Arroz integral
+Peito de frango
+
+✔ Antocianinas + fibras + proteínas
+✔ Nenhuma competição de ferro/cálcio
+
+❤️ CARDÁPIO VERMELHO
+
+Morango
+Tomate
+Melancia
+Pimentão vermelho
+Carne magra (fonte de ferro heme)
+Arroz e feijão
+✔ Vitamina C do pimentão e tomate aumenta absorção do ferro da carne.
+
+🧡 CARDÁPIO LARANJA/AMARELO
+
+Manga
+Cenoura
+Abóbora
+Milho
+Peixe
+Azeite
+✔ Gordura + carotenoides = absorção máxima de vitamina A.
+
+💚 CARDÁPIO VERDE
+
+Kiwi
+Brócolis
+Espinafre
+Abacate
+Arroz integral + lentilha
+Frango
+✔ Vitamina C do kiwi e brócolis aumenta ferro vegetal do espinafre.
+
+🌸 CARDÁPIO ROSA
+
+Goiaba rosa
+Pitaya rosa
+Salada com rabanete
+Frango ao molho de tomate rosa
+Arroz integral
+✔ Alto teor de vitamina C + licopeno
+
+✔ Ferro + Vitamina C
+
+Exemplos nordestinos perfeitos:
+
+Feijão + limão
+Carne de sol + acerola
+Fígado + caju
+Peixe + manga
+
+✔ Carotenoides + gordura
+
+Aipim / jerimum / cenoura + azeite ou manteiga de garrafa
+Cuscuz + ovo (gordura da gema ajuda vitamina A)
+
+✔ Grão + cereal = proteína completa
+
+Feijão + arroz
+Fava + pirão
+Lentilha + cuscuz
+
+🎨 3. CORES DOS ALIMENTOS (VERSÃO NORDESTINA + ACESSÍVEL)
+❤️ Vermelhos
+
+Melancia, goiaba, tomate, pimentão vermelho, beterraba.
+
+💛🧡 Amarelos e alaranjados
+
+Jerimum (abóbora), manga, mamão, milho, cuscuz, batata-doce amarela.
+
+💚 Verdes
+
+Coentro, couve, maxixe, quiabo, vinagreira, limão, abacate.
+
+💜 Roxos
+
+Repolho roxo, feijão roxinho, uva roxa (quando acessível), cebola roxa.
+
+🌸 Rosas
+
+Goiaba rosa, pitaya rosa (quando barata), rabanete.
+
+🍽️ 4. CARDÁPIOS SEGUROS (SEM COMPETIÇÕES) ORGANIZADOS POR COR + CULINÁRIA NORDESTINA
+
+❤️ CARDÁPIO VERMELHO + FERRO + VITAMINA C
+
+(Feijão, carne e vitamina C → combinação perfeita)
+
+Café da manhã
+
+Suco de goiaba ou melancia
+Cuscuz com ovo
+Banana prata
+
+💡 Não tem cálcio → não atrapalha ferro do ovo.
+
+Almoço
+
+Feijão macassar
+Arroz
+Carne de sol acebolada
+Salada de tomate + pimentão + limão
+✔ Limão e tomate → aumentam absorção do ferro da carne/feijão.
+
+Lanche
+
+Goiaba ou acerola
+
+Jantar
+
+Pirão de peixe
+Vinagrete de tomate
+
+🧡💛 CARDÁPIO LARANJA/AMARELO – CAROTENOIDES + GORDURAS BOAS
+
+(Excelente para vitamina A)
+
+Café da manhã
+
+Cuscuz de milho com manteiga de garrafa
+Mamão ou manga
+✔ Manteiga melhora absorção da vitamina A do mamão e do cuscuz.
+
+Almoço
+
+Frango grelhado
+Jerimum refogado
+Farofa de milho
+Couve refogada
+
+Lanche
+
+Milho cozido
+
+Jantar
+
+Purê de jerimum
+Ovos mexidos
+✔ Gema + jerimum = bomba de vitamina A absorvida.
+
+💚 CARDÁPIO VERDE – DETOX + FERRO VEGETAL
+
+(Verdes + vitamina C = absorção potencializada)
+
+Café da manhã
+
+Suco de limão com água
+Tapioca com ovo e coentro
+
+Almoço
+
+Peixe assado
+Arroz
+Feijão verde ou feijão de corda
+Salada de: couve crua + maxixe + limão
+✔ Limão melhora ferro do feijão verde.
+
+Lanche
+
+Abacate com gotas de limão
+
+Jantar
+
+Omelete com coentro, quiabo e tomate
+
+💜 CARDÁPIO ROXO – ANTIOXIDANTE + BARATO
+
+Café da manhã
+
+Cuscuz com ovo
+Suco de uva (ou água com limão, se estiver caro)
+
+Almoço
+
+Carne moída
+Arroz integral (quando possível)
+Feijão roxinho
+Salada de repolho roxo e cebola roxa
+
+Lanche
+
+Banana-da-terra assada com canela
+
+Jantar
+
+Sopa de legumes com repolho roxo e jerimum
+
+🌸 CARDÁPIO ROSA – LICOPENO + VITAMINA C
+
+Café da manhã
+
+Goiaba rosa
+Iogurte (aqui pode, pois não há ferro junto)
+✔ Não interfere em nada aqui.
+
+Almoço
+
+Frango ao molho de tomate rosa (ou tomate comum)
+Arroz
+Salada de rabanete + limão
+Feijão carioca (aqui não usar laticínios juntos)
+
+Lanche
+
+Pitaya rosa ou melancia
+
+Jantar
+
+Purê de batata com tomate refogado
+Ovos cozidos
+
+🧭 5. CARDÁPIO COMPLETO DO DIA (SEM COMPETIÇÕES)
+
+Café da manhã
+
+Cuscuz com ovo
+Mamão
+Café (pode, pois aqui não tem ferro heme → não atrapalha)
+
+Almoço
+
+Feijão de corda
+Arroz
+Carne de sol
+Vinagrete com tomate + cebola roxa + limão
+✔ Ferro + vitamina C → absorção máxima
+
+Lanche
+
+Goiaba ou acerola
+
+Jantar
+
+Peixe assado
+Jerimum refogado
+Couve no alho
+
+Ceia (opcional)
+Chá de capim-santo ou camomila
+
+
+
+📅 SEGUNDA-FEIRA – Cores vermelhas (ferro + vitamina C)
+CAFÉ DA MANHÃ – 430 kcal
+
+Cuscuz (100 g cozido) – 140 kcal
+Ovo cozido (1 un) – 70 kcal
+Melancia (300 g) – 90 kcal
+Café sem açúcar – 0 kcal
+1 colher de mel – 30 kcal
+Justificativa: não tem cálcio → não atrapalha ferro do ovo.
+
+ALMOÇO – 650 kcal
+
+Feijão macassar (1 concha média – 150 g) – 180 kcal
+Arroz (120 g cozidos) – 160 kcal
+Carne de sol (120 g dessalgada) – 230 kcal
+Vinagrete (tomate + pimentão + limão) – 80 kcal
+Ferro + vitamina C → absorção máxima.
+
+LANCHE – 90 kcal
+
+Goiaba (1 unidade média)
+
+JANTAR – 610 kcal
+
+Peixe assado (150 g) – 220 kcal
+Purê de jerimum (200 g) – 150 kcal
+Couve refogada (80 g + 1 fio de óleo) – 120 kcal
+1 banana (70 kcal)
+
+📌 TOTAL DO DIA: ~1.780 kcal
+(Acrescentar mais uma fruta ou porção de castanhas se quiser aproximar de 2.000 kcal.)
+
+📅 TERÇA-FEIRA – Cores verdes (detox + ferro vegetal + vitamina C)
+CAFÉ – 350 kcal
+
+Tapioca (2 colheres de goma, 80 g) – 140 kcal
+Ovo mexido (1 un) – 90 kcal
+Suco de limão com água + 1 col de açúcar – 60 kcal
+Mamão (100 g) – 60 kcal
+
+ALMOÇO – 680 kcal
+
+Feijão verde (150 g) – 130 kcal
+Arroz (120 g) – 160 kcal
+Peixe cozido (180 g) – 260 kcal
+Salada crua (couve + maxixe + limão) – 80 kcal
+
+LANCHE – 200 kcal
+
+Abacate (100 g) + limão
+
+JANTAR – 650 kcal
+
+Omelete com tomate, coentro, cebola (2 ovos) – 240 kcal
+Batata-doce cozida (150 g) – 130 kcal
+Jerimum salteado (150 g) – 150 kcal
+1 maçã – 60 kcal
+
+📌 TOTAL DO DIA: ~1.880 kcal
+
+📅 QUARTA-FEIRA – Laranja / Amarelo (carotenoides + gordura boa)
+
+CAFÉ – 420 kcal
+
+Cuscuz com manteiga de garrafa (100 g + 1 c. chá) – 200 kcal
+Ovo frito pequeno – 100 kcal
+Suco de manga (200 ml) – 120 kcal
+
+ALMOÇO – 720 kcal
+
+Frango grelhado (150 g) – 220 kcal
+Arroz (100 g) – 135 kcal
+Jerimum assado (200 g) – 150 kcal
+Farofa de milho (2 colheres) – 160 kcal
+Salada de couve – 60 kcal
+
+LANCHE – 140 kcal
+
+Milho cozido (½ espiga)
+
+JANTAR – 650 kcal
+
+Ovos mexidos (2 un) – 180 kcal
+Purê de jerimum (180 g) – 150 kcal
+Mix verde com limão – 50 kcal
+Banana assada – 140 kcal
+1 colher de castanhas – 130 kcal
+
+📌 TOTAL DO DIA: ~1.930 kcal
+
+📅 QUINTA-FEIRA – Roxos (antioxidantes fortes)
+
+CAFÉ – 360 kcal
+
+Cuscuz com ovo – 210 kcal
+Suco de uva diluído (200 ml) – 90 kcal
+Mamão – 60 kcal
+
+ALMOÇO – 700 kcal
+
+Feijão roxinho (1 concha) – 170 kcal
+Arroz integral (120 g) – 150 kcal
+Carne moída (130 g) – 260 kcal
+Salada de repolho roxo + limão – 120 kcal
+
+LANCHE – 180 kcal
+
+Banana-da-terra assada (1 pequena)
+
+JANTAR – 640 kcal
+
+Sopa nordestina: jerimum + repolho roxo + feijão verde – 350 kcal
+Ovo cozido – 70 kcal
+Maçã – 60 kcal
+4 biscoitos cream cracker – 160 kcal
+
+📌 TOTAL DO DIA: ~1.880 kcal
+
+📅 SEXTA-FEIRA – Rosa / Vermelho (licopeno + vitamina C)
+
+CAFÉ – 380 kcal
+
+Goiaba rosa (1 un) – 60 kcal
+Iogurte natural (170 g) – 100 kcal
+Tapioca com ovo – 220 kcal
+❗ Aqui pode ter laticínio → não há ferro heme.
+
+ALMOÇO – 720 kcal
+
+Frango ao molho de tomate (180 g) – 230 kcal
+Arroz (120 g) – 160 kcal
+Feijão carioca (150 g) – 150 kcal
+Rabanete com limão – 60 kcal
+Manga (100 g) – 120 kcal
+
+LANCHE – 100 kcal
+
+Pitaya rosa ou melancia (200 g)
+
+JANTAR – 650 kcal
+
+Peixe grelhado – 220 kcal
+Purê de batata com tomate (200 g) – 250 kcal
+Couve refogada – 120 kcal
+1 fatia de melancia – 60 kcal
+
+📌 TOTAL DO DIA: ~1.850 kcal
+
+📅 SÁBADO – Mix Nordestino Equilibrado
+
+CAFÉ – 420 kcal
+
+Cuscuz com ovo – 210 kcal
+Banana – 70 kcal
+Suco de laranja – 140 kcal
+✔ Laranja melhora absorção de ferro vegetal do cuscuz + ovo.
+
+ALMOÇO – 780 kcal
+
+Peixe ensopado (150 g) – 220 kcal
+Pirão (150 g) – 160 kcal
+Feijão-de-corda (150 g) – 150 kcal
+Arroz (120 g) – 160 kcal
+Vinagrete – 90 kcal
+
+LANCHE – 150 kcal
+
+Pedaço de melancia
+
+JANTAR – 620 kcal
+
+Omelete de 2 ovos – 180 kcal
+Purê de jerimum – 150 kcal
+Salada verde – 50 kcal
+1 maçã – 60 kcal
+1 colher de castanhas – 130 kcal
+
+📌 TOTAL DO DIA: ~1.960 kcal
+
+📅 DOMINGO – Tradicional e balanceado
+
+CAFÉ – 450 kcal
+
+Cuscuz + manteiga de garrafa – 200 kcal
+Ovos mexidos (2 un) – 160 kcal
+Goiaba – 60 kcal
+
+ALMOÇO – 780 kcal
+
+Frango assado (200 g) – 300 kcal
+Arroz (120 g) – 160 kcal
+Feijão verde (150 g) – 130 kcal
+Legumes no vapor – 60 kcal
+Suco de acerola – 130 kcal
+✔ Vitamina C da acerola → absorção do ferro do frango e feijão.
+
+LANCHE – 180 kcal
+
+Abacate + limão
+
+JANTAR – 600 kcal
+
+Sopa de jerimum e batata-doce – 300 kcal
+Ovo cozido – 70 kcal
+1 maçã – 60 kcal
+4 biscoitos cream cracker – 160 kcal
+
+📌 TOTAL DO DIA: ~2.010 kcal

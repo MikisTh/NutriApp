@@ -1,0 +1,8 @@
+🧪 Exemplo: Concentração média de nutrientes em tomates (mesma variedade) cultivados em diferentes tipos de solo
+Tipo de Solo	pH médio	Matéria Orgânica (%)	N (mg/100g)	P (mg/100g)	K (mg/100g)	Ca (mg/100g)	Mg (mg/100g)	Vitamina C (mg/100g)
+Argiloso	6.2	3.1	12.5	3.2	15.4	5.8	2.3	22.1
+Arenoso	5.6	1.4	9.7	2.1	10.8	3.9	1.8	18.4
+Latossolo Vermelho	6.0	2.8	11.9	3.0	14.2	5.5	2.1	21.3
+Orgânico (húmico)	6.8	5.6	13.4	3.6	16.1	6.2	2.7	24.5
+Calcário	7.2	2.2	10.5	3.4	12.7	7.1	2.5
+
